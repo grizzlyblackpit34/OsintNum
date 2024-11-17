@@ -65,7 +65,7 @@ pip install -r requirements.txt
 Questions, bugs or suggestions to : info@hackunderway.com
 
 # LICENSE
-- [x] SearchPhone is licensed. 
+- [x] OsintNum is licensed. 
 - [x] See [LICENSE](https://github.com/HackUnderway/OsintNum#MIT-1-ov-file) for more information.
 
 We need partners and sponsors, if you're interested in support or help contact.
